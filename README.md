@@ -8,7 +8,8 @@ https://sergiocampbell.github.io/flappyAngryBird/
 
 Get the highest score!
 
-#Code
-Very simply to generate pipes using the [code]Math[code] function and [code].random()[code].
+# Code
 
-The [code]interval function[code] shows every single time the score board.
+Very simply to generate pipes using the ```Math``` function and ```.random()```.
+
+The ```interval function``` shows every single time the score board.
